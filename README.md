@@ -22,16 +22,16 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="26px" src="./img/arduino-1.svg" style="padding-right:10px;" />
 <img align="left" alt="Intellij-Idea" width="26px" src="./img/intellij-idea-1.svg" style="padding-right:10px;" />
-<img align="left" alt="JAVA" width="26px" src="./img/java-4.svg" style="padding-right:10px;" />
+<img align="left" alt="JAVA" width="26px" src="./img/java-14.svg" style="padding-right:10px;" />
 <img align="left" alt="Notion" width="26px" src="./img/notion-1-1.svg" style="padding-right:10px;" />
 <img align="left" alt="Numpy" width="26px" src="./img/numpy-1.svg" style="padding-right:10px;"/>
 <img align="left" alt="python" width="26px" src="./img/python-5.svg" style="padding-right:10px;"/>
 <img align="left" alt="Sublime-Text" width="26px" src="./img/sublime-text.svg" style="padding-right:10px;"/>
-<img align="left" alt="LaTeX" width="26px" src="./img/latex.svg" style="padding-right:10px;"/>
+<img align="left" alt="LaTeX" width="26px" src="./img/latex.svg" style="padding-right:10px;"/> </br></br>
 
-  ### Github Overview:
+### Github Overview:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&show_icons=true&theme=highcontrast)  
-
+</br>
 ![GitHub metrics](https://metrics.lecoq.io/Ihsan-nahid)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ihsan-nahid)  
