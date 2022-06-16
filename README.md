@@ -20,11 +20,16 @@ I'm a problem solver who is currently doing major in computer science and engine
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
+[<img align="left" alt="Arduino" width="26px" src="./img/arduino-1.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Intellij-Idea" width="26px" src="./img/intellij-idea-1.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JAVA" width="26px" src="./img/java.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Notion" width="26px" src="./img/notion-1-1.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Numpy" width="26px" src="./img/numpy-1.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Oython" width="26px" src="./img/python-5.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Sublime-Text" width="26px" src="./img/sublime-text.svg" />]
 
 <br />
 <br />
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ihsan-nahid)](https://github.com/ryo-ma/github-profile-trophy)
 
