@@ -30,17 +30,13 @@
 <img align="left" alt="LaTeX" width="26px" src="./img/latex.svg"/>
 <br />
 <br />
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ihsan-nahid)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan-nahid)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan-nahid)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Overview
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&show_icons=true&count_private=true)  
-<!--
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ihsan-nahid)  
--->
+
 ![GitHub metrics](https://metrics.lecoq.io/Ihsan-nahid)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ihsan-nahid)  
@@ -50,7 +46,10 @@
 <!--### Hi there 👋
 
 **Ihsan-nahid/Ihsan-nahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ihsan-nahid)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ihsan-nahid)  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
