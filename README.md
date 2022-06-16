@@ -13,7 +13,7 @@
 ### Languages and Tools:
 
 <!---<a href="https://www.freeiconspng.com/img/28389">c++ logo image</a>-->
-
+======
 <img align="left" alt="C++" width="26px" src="./img/c++.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -28,7 +28,8 @@
 <img align="left" alt="python" width="26px" src="./img/python-5.svg" style="padding-right:10px;"/>
 <img align="left" alt="Sublime-Text" width="26px" src="./img/sublime-text.svg" style="padding-right:10px;"/>
 <img align="left" alt="LaTeX" width="26px" src="./img/latex.svg"/>
-<br />
+
+
 Github Overview
 ======
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&show_icons=true&theme=highcontrast)  
