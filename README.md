@@ -27,9 +27,10 @@
 <img align="left" alt="Numpy" width="26px" src="./img/numpy-1.svg" style="padding-right:10px;"/>
 <img align="left" alt="python" width="26px" src="./img/python-5.svg" style="padding-right:10px;"/>
 <img align="left" alt="Sublime-Text" width="26px" src="./img/sublime-text.svg" style="padding-right:10px;"/>
-<img align="left" alt="LaTeX" width="26px" src="./img/latex.svg"/> <br />
+<img align="left" alt="LaTeX" width="26px" src="./img/latex.svg"/>
 
-### Github Overview
+Github Overview
+======
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&show_icons=true&theme=highcontrast)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Ihsan-nahid)  
