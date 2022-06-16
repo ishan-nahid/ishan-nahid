@@ -1,8 +1,8 @@
 ### Hi there 👋, <br />
-## my name is ISHAN AHMAD
+# my name is ISHAN AHMAD
 ![I am a learner.](./img/nahid.png)
-### I am a learner.
-I'm a problem solver who is currently doing major in computer science and engineering.
+## I am a learner.
+### I'm a problem solver who is currently doing major in computer science and engineering.
 
 
 - 🌱 I’m currently learning Algorithmic Problem Solving 
