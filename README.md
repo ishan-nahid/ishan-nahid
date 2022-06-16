@@ -19,7 +19,6 @@ I'm a problem solver who is currently doing major in computer science and engine
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
 [<img align="left" alt="Arduino" width="26px" src="./img/arduino-1.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Intellij-Idea" width="26px" src="./img/intellij-idea-1.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JAVA" width="26px" src="./img/java.svg" style="padding-right:10px;" />]
@@ -27,7 +26,6 @@ I'm a problem solver who is currently doing major in computer science and engine
 [<img align="left" alt="Numpy" width="26px" src="./img/numpy-1.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Oython" width="26px" src="./img/python-5.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Sublime-Text" width="26px" src="./img/sublime-text.svg" />]
-
 <br />
 <br />
 
