@@ -32,7 +32,6 @@
 ### Github Overview:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&show_icons=true&theme=highcontrast)  
 </br>
-![GitHub metrics](https://metrics.lecoq.io/Ihsan-nahid)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ihsan-nahid)  
 
