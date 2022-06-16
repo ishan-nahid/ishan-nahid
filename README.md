@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is ISHAN AHMAD
-(./img/nahid.jpg)
+![I am a learner.](./img/nahid.png)
 #### I am a learner.
 I'm a problem solver who is currently doing major in computer science and engineering.
 
