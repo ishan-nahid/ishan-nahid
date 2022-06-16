@@ -13,19 +13,19 @@ I'm a problem solver who is currently doing major in computer science and engine
 
 <!---<a href="https://www.freeiconspng.com/img/28389">c++ logo image</a>-->
 
-[<img align="left" alt="C++" width="26px" src="./img/c++.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="Arduino" width="26px" src="./img/arduino-1.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Intellij-Idea" width="26px" src="./img/intellij-idea-1.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JAVA" width="26px" src="./img/java-4.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Notion" width="26px" src="./img/notion-1-1.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Numpy" width="26px" src="./img/numpy-1.svg"/>]
-[<img align="left" alt="python" width="26px" src="./img/python-5.svg" />]
-<img align="left" alt="Sublime-Text" width="26px" src="./img/sublime-text.svg"/>
+<img align="left" alt="C++" width="26px" src="./img/c++.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Arduino" width="26px" src="./img/arduino-1.svg" style="padding-right:10px;" />
+<img align="left" alt="Intellij-Idea" width="26px" src="./img/intellij-idea-1.svg" style="padding-right:10px;" />
+<img align="left" alt="JAVA" width="26px" src="./img/java-4.svg" style="padding-right:10px;" />
+<img align="left" alt="Notion" width="26px" src="./img/notion-1-1.svg" style="padding-right:10px;" />
+<img align="left" alt="Numpy" width="26px" src="./img/numpy-1.svg" style="padding-right:10px;"/>
+<img align="left" alt="python" width="26px" src="./img/python-5.svg" style="padding-right:10px;"/>
+<img align="left" alt="Sublime-Text" width="26px" src="./img/sublime-text.svg" style="padding-right:10px;"/>
 <img align="left" alt="LaTeX" width="26px" src="./img/latex.svg"/>
 <br />
 <br />
