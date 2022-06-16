@@ -23,10 +23,10 @@ I'm a problem solver who is currently doing major in computer science and engine
 [<img align="left" alt="Intellij-Idea" width="26px" src="./img/intellij-idea-1.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JAVA" width="26px" src="./img/java-4.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Notion" width="26px" src="./img/notion-1-1.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Numpy" width="26px" src="./img/numpy-1.svg" style="padding-right:10px;" />]
-[<img align="left" alt="python" width="26px" src="./img/python-5.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Sublime-Text" width="26px" src="./img/sublime-text.svg" style="padding-right:10px;"/>]
-[<img align="left" alt="LaTeX" width="26px" src="./img/latex.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Numpy" width="26px" src="./img/numpy-1.svg"/>]
+[<img align="left" alt="python" width="26px" src="./img/python-5.svg" />]
+[<img align="left" alt="Sublime-Text" width="26px" src="./img/sublime-text.svg"/>]
+[<img align="left" alt="LaTeX" width="26px" src="./img/latex.svg"/>]
 <br />
 <br />
 
