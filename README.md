@@ -29,8 +29,8 @@
 <img align="left" alt="Sublime-Text" width="26px" src="./img/sublime-text.svg" style="padding-right:10px;"/>
 <img align="left" alt="LaTeX" width="26px" src="./img/latex.svg"/>
 
-Github Overview
-======
+### Github Overview
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&show_icons=true&theme=highcontrast)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Ihsan-nahid)  
