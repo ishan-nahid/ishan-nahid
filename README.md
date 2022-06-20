@@ -36,7 +36,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ihsan-nahid)  
 
 ![Profile views](https://gpvc.arturio.dev/Ihsan-nahid)  
-
+[![wakatime](https://wakatime.com/badge/user/52bc12bd-2c5d-4ff7-b932-322fcb229068.svg)](https://wakatime.com/@52bc12bd-2c5d-4ff7-b932-322fcb229068)
 <!--### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan-nahid)](https://github.com/anuraghazra/github-readme-stats)
 **Ihsan-nahid/Ihsan-nahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
