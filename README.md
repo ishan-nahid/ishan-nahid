@@ -46,7 +46,9 @@
 ### Github Overview:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&show_icons=true&theme=highcontrast)  
 </br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihsan-nahid" alt="ihsan-nahid" /></a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihsan-nahid&show_icons=true&locale=en&layout=compact" alt="ihsan-nahid" /></p>
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ihsan-nahid)  
 
 ![Profile views](https://gpvc.arturio.dev/Ihsan-nahid)  
