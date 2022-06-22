@@ -12,8 +12,9 @@
 -->
 
 ### Online Judge Profiles:
-<a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img align="left" src="./img/CF_logo.svg" alt="ihsan_nahid" width="16px" style="padding-right:10px;"/></a>
-<a href="https://www.codechef.com/users/ihsan_nahid" target="blank"><img align="left" src="./img/codechef.svg" alt="ihsan_nahid" width="16px" style="padding-right:10px;"/></a>
+<a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img align="left" src="./img/CF_logo.svg" alt="ihsan_nahid" width="30px" style="padding-right:10px;"/></a>
+<a href="https://www.codechef.com/users/ihsan_nahid" target="blank"><img align="left" src="./img/codechef.svg" alt="ihsan_nahid" width="30px" style="padding-right:10px;"/></a>
+<a href="https://toph.co/u/NAHID_GTC" target="blank"><img align="left" src="./img/toph.svg" alt="NAHID_GTC" width="30px" style="padding-right:10px;"/></a>
 
 </br>
 
