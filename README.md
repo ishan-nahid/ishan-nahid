@@ -17,7 +17,7 @@
 <a href="https://toph.co/u/NAHID_GTC" target="blank"><img align="left" src="./img/toph.svg" alt="NAHID_GTC" width="50px" style="padding-right:10px;"/></a>
 <a href="https://www.beecrowd.com.br/judge/en/profile/258234" target="blank"><img align="left" src="./img/beecrowd.webp" alt="NAHID_GTC" width="50px" style="padding-right:10px;"/></a>
 <a href="https://uhunt.onlinejudge.org/id/1132963" target="blank"><img align="left" src="./img/uvaOJ.svg" alt="nahid_binary" width="50px" style="padding-right:10px;"/></a>
-<a href="https://lightoj.com/user/nahid_gtc" target="blank"><img align="left" src="./img/LIGHT_OJ.svg" alt="nahid_gtc" width="50px" style="padding-right:10px;"/></a>
+<a href="https://lightoj.com/user/nahid_gtc" target="blank"><img align="left" src="./img/LOJ.svg" alt="nahid_gtc" width="50px" style="padding-right:10px;" /></a>
 
 
 </br>
