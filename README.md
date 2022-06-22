@@ -12,10 +12,11 @@
 -->
 
 ### Online Judge Profiles:
-<a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img align="left" src="./img/CF_logo.svg" alt="ihsan_nahid" width="30px" style="padding-right:10px;"/></a>
-<a href="https://www.codechef.com/users/ihsan_nahid" target="blank"><img align="left" src="./img/codechef.svg" alt="ihsan_nahid" width="30px" style="padding-right:10px;"/></a>
-<a href="https://toph.co/u/NAHID_GTC" target="blank"><img align="left" src="./img/toph.svg" alt="NAHID_GTC" width="40px" style="padding-right:10px;"/></a>
-<a href="https://www.beecrowd.com.br/judge/en/profile/258234" target="blank"><img align="left" src="./img/beecrowd.webp" alt="NAHID_GTC" width="30px" style="padding-right:10px;"/></a>
+<a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img align="left" src="./img/CF_logo.svg" alt="ihsan_nahid" width="50px" style="padding-right:10px;"/></a>
+<a href="https://www.codechef.com/users/ihsan_nahid" target="blank"><img align="left" src="./img/codechef.svg" alt="ihsan_nahid" width="50px" style="padding-right:10px;"/></a>
+<a href="https://toph.co/u/NAHID_GTC" target="blank"><img align="left" src="./img/toph.svg" alt="NAHID_GTC" width="50px" style="padding-right:10px;"/></a>
+<a href="https://www.beecrowd.com.br/judge/en/profile/258234" target="blank"><img align="left" src="./img/beecrowd.webp" alt="NAHID_GTC" width="50px" style="padding-right:10px;"/></a>
+<a href="https://uhunt.onlinejudge.org/id/1132963" target="blank"><img align="left" src="./img/uva.svg" alt="nahid_binary" width="50px" style="padding-right:10px;"/></a>
 
 </br>
 
