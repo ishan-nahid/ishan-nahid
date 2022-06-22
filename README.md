@@ -47,9 +47,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&show_icons=true&theme=highcontrast)  
 </br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihsan-nahid&show_icons=true&locale=en&layout=compact" alt="ihsan-nahid" /></p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ihsan-nahid)  </br>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ihsan-nahid)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan-nahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Profile views](https://gpvc.arturio.dev/Ihsan-nahid)  
 [![wakatime](https://wakatime.com/badge/user/52bc12bd-2c5d-4ff7-b932-322fcb229068.svg)](https://wakatime.com/@52bc12bd-2c5d-4ff7-b932-322fcb229068)
