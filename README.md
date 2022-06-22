@@ -42,10 +42,11 @@
 <img align="left" alt="Sublime-Text" width="26px" src="./img/sublime-text.svg" style="padding-right:10px;"/>
 <img align="left" alt="LaTeX" width="26px" src="./img/latex.svg" style="padding-right:10px;"/> </br></br>
 
+
 ### Github Overview:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&show_icons=true&theme=highcontrast)  
 </br>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihsan-nahid" alt="ihsan-nahid" /></a> </p>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ihsan-nahid)  
 
 ![Profile views](https://gpvc.arturio.dev/Ihsan-nahid)  
