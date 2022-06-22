@@ -10,7 +10,7 @@
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ihsan-nahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nahid_gtc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/IHSAN_NAHID)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Ihsan_Nahid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/acm.svg' alt='acm' height='40'>](https://icpc.global/private/profile/589150)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/ihsan_nahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://musketeersdiary.blogspot.com/search/label/nahid%20rahman?&max-results=6)  
 -->
-</br>
+
 ### Online Judge Profiles:
 <a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img align="left" src="./img/CF_logo.svg" alt="ihsan_nahid" width="50px" style="padding-right:10px;" /></a>
 <a href="https://www.codechef.com/users/ihsan_nahid" target="blank"><img align="left" src="./img/codechef.svg" alt="ihsan_nahid" width="50px" style="padding-right:10px;" /></a>
