@@ -44,16 +44,20 @@
 
 
 ### Github Overview:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&show_icons=true&theme=highcontrast)  
-</br>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ihsan-nahid)  </br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan-nahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&show_icons=true&theme=highcontrasthide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ihsan-nahid&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan-nahid&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![Profile views](https://gpvc.arturio.dev/Ihsan-nahid)  
 [![wakatime](https://wakatime.com/badge/user/52bc12bd-2c5d-4ff7-b932-322fcb229068.svg)](https://wakatime.com/@52bc12bd-2c5d-4ff7-b932-322fcb229068)
 <!--### Hi there 👋
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ihsan-nahid&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan-nahid&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan-nahid)](https://github.com/anuraghazra/github-readme-stats)
 **Ihsan-nahid/Ihsan-nahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
