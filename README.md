@@ -12,9 +12,10 @@
 -->
 
 ### Online Judge Profiles:
-<a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img align="left" src="./img/CF_logo.svg" alt="ihsan_nahid" width="16px"/></a>
-<a href="https://www.codechef.com/users/ihsan_nahid" target="blank"><img align="left" src="./img/CodeChef.svg" alt="ihsan_nahid" width="16px"/></a>
+<a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img align="left" src="./img/CF_logo.svg" alt="ihsan_nahid" width="16px" style="padding-right:10px;"/></a>
+<a href="https://www.codechef.com/users/ihsan_nahid" target="blank"><img align="left" src="./img/CodeChef.svg" alt="ihsan_nahid" width="16px" style="padding-right:10px;"/></a>
 
+</br>
 ### Languages and Tools:
 
 <!---<a href="https://www.freeiconspng.com/img/28389">c++ logo image</a>-->
