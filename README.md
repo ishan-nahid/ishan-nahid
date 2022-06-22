@@ -12,7 +12,7 @@
 -->
 
 ### Online Judge Profiles:
-<a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img align="center" src="./img/Codeforces_logo.svg" alt="ihsan_nahid" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img align="center" src="./img/Codeforces_logo.svg" alt="ihsan_nahid" width="26px"/></a>
 
 ### Languages and Tools:
 
