@@ -1,4 +1,4 @@
-### Hi there 👋, <br />
+### Hi there 👋, </br>
 # my name is ISHAN AHMAD
 ![I am a learner.](./img/nahid.png)
 ## I am a learner.
@@ -16,6 +16,8 @@
 <a href="https://www.codechef.com/users/ihsan_nahid" target="blank"><img align="left" src="./img/CodeChef.svg" alt="ihsan_nahid" width="16px" style="padding-right:10px;"/></a>
 
 </br>
+
+
 ### Languages and Tools:
 
 <!---<a href="https://www.freeiconspng.com/img/28389">c++ logo image</a>-->
