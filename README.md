@@ -44,7 +44,7 @@
 
 
 ### Github Overview:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&show_icons=true&theme=highcontrasthide_border=true&include_all_commits=true&count_private=true)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ihsan-nahid&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan-nahid&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
