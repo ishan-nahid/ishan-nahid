@@ -53,6 +53,8 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/52bc12bd-2c5d-4ff7-b932-322fcb229068.svg)](https://wakatime.com/@52bc12bd-2c5d-4ff7-b932-322fcb229068)
+
+[![An image of @ishannahid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishannahid)](https://holopin.io/@ishannahid)
 <!--### Hi there 👋
 
 # 📊 GitHub Stats:
