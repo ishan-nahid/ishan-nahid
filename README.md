@@ -1,12 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm ISHAN AHMAD</h1>
-<!-- <h3 align="center">A problem solver and explorer from Dhaka! I have solved 1K++ coding problems on various online judges. I also made my hand dirty with several web and android based projects. Currently, I am working on a neural net based OCR project.</h3> -->
+
 - A problem solver and explorer from Dhaka! <br/>
 - I have solved 1K++ coding problems on various online judges. <br/>
 - I also made my hand dirty with several web and android based projects. <br/>
 - Currently, I am working on a neural net based OCR project. <br/>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ishan-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="ishan-nahid" /> </p>
 
+<img src="https://ghpvc/?username=ishan-nahid"/>
 ![ISHAN-AHMAD](./img/nahid.png)
 
 
