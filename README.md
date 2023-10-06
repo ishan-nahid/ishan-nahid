@@ -48,7 +48,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ihsan-nahid&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan-nahid&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/Ihsan-nahid)  
+[!Profile views](https://gpvc.arturio.dev/Ihsan-nahid)  
 [![wakatime](https://wakatime.com/badge/user/52bc12bd-2c5d-4ff7-b932-322fcb229068.svg)](https://wakatime.com/@52bc12bd-2c5d-4ff7-b932-322fcb229068)
 <!--### Hi there 👋
 
