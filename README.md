@@ -48,9 +48,7 @@
 
 ### Github Overview:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-nahid&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ishan-nahid&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-nahid&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ishan-nahid&theme=dark&hide_border=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-nahid&theme=dark)](https://github.com/ishan-nahid/github-readme-stats)
 ![](https://visitor-badge.glitch.me/badge?page_id=tomal223.profile&labelColor=00FF00)
 
