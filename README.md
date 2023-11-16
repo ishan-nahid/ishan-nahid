@@ -9,10 +9,21 @@
 
 ![ISHAN-AHMAD](./img/nahid.png)
 
+## Tools & Technologies
+- ### Languages:
+| <p align="center">Work With</p> | <p align="center">Familiar</p> | 
+| :------------- | :-------------: |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)	![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
 
-<!--
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ihsan-nahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nahid_gtc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/IHSAN_NAHID)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Ihsan_Nahid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/acm.svg' alt='acm' height='40'>](https://icpc.global/private/profile/589150)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/ihsan_nahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://musketeersdiary.blogspot.com/search/label/nahid%20rahman?&max-results=6)  
--->
+- ### Back-end Development:
+| <p align="center">Work With</p> | <p align="center">Familiar</p> | 
+| :------------- | :-------------: |
+| ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |  
+
+- ### Database:
+| <p align="center">Work With</p> | <p align="center">Familiar</p> | 
+| :------------- | :-------------: |
+| ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |  
 
 ### Online Judge Profiles:
 <a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img align="left" src="./img/CF_logo.svg" alt="ihsan_nahid" width="50px" style="padding-right:10px;" /></a>
@@ -28,7 +39,6 @@
 
 ### Languages and Tools:
 
-<!---<a href="https://www.freeiconspng.com/img/28389">c++ logo image</a>-->
 
 <img align="left" alt="C++" width="26px" src="./img/c++.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -56,28 +66,3 @@
 [![wakatime](https://wakatime.com/badge/user/52bc12bd-2c5d-4ff7-b932-322fcb229068.svg)](https://wakatime.com/@52bc12bd-2c5d-4ff7-b932-322fcb229068)
 
 [![An image of @ishannahid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishannahid)](https://holopin.io/@ishannahid)
-<!--### Hi there 👋
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ihsan-nahid&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ihsan-nahid&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan-nahid&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan-nahid)](https://github.com/anuraghazra/github-readme-stats)
-**Ihsan-nahid/Ihsan-nahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ihsan-nahid)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ihsan-nahid)  
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
