@@ -28,11 +28,9 @@
 - ### Problem Solving Profiles:
 | <p align="center">OJ platform</p> | <p align="center">Solve Count</p> | 
 | :------------- | :-------------: |
-| <a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img  src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="ihsan_nahid" /></a> | 495
-| [![Codeforces](https://codeforces.org/s/13978/images/codeforces-sponsored-by-ton.png)](https://codeforces.com/profile/IHSAN_NAHID) | 495
-| <div align="center"> <a href="https://codeforces.com/profile/IHSAN_NAHID"> <img src="https://codeforces.org/s/13978/images/codeforces-sponsored-by-ton.png" alt="Codeforces" width="120"> </a> </div> | 495
-| [![Toph](https://img.shields.io/static/v1?label=&message=Toph&color=blue&style=for-the-badge)](https://toph.co/u/NAHID_GTC)| 95
-| [![Toph](https://static.toph.co/images/logo.png?_=f76bdcf12c6acbf239a6e1b395ce7729b71e6c25)](https://toph.co/u/NAHID_GTC) | 95
+| <a href="https://codeforces.com/profile/IHSAN_NAHID"> <img src="https://codeforces.org/s/13978/images/codeforces-sponsored-by-ton.png" alt="Codeforces" height="28"> </a>| 495
+| <a href="https://www.beecrowd.com.br/judge/en/profile/258234"> <img src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" alt="Beecrowd" height="28"> </a> | 235
+|  <a href="https://toph.co/u/NAHID_GTC"> <img src="https://static.toph.co/images/logo.png?_=f76bdcf12c6acbf239a6e1b395ce7729b71e6c25" alt="Codeforces" height="28"></a> | 74
 
 
 
