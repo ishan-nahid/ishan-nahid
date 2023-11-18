@@ -30,6 +30,7 @@
 | :------------- | :-------------: |
 | <a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img  src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="ihsan_nahid" /></a> | 495
 | [![Codeforces](https://codeforces.org/s/13978/images/codeforces-sponsored-by-ton.png)](https://codeforces.com/profile/IHSAN_NAHID) | 495
+| <div align="center"> <a href="https://codeforces.com/profile/IHSAN_NAHID"> <img src="https://codeforces.org/s/13978/images/codeforces-sponsored-by-ton.png" alt="Codeforces" width="120"> </a> </div> | 495
 | [![Toph](https://img.shields.io/static/v1?label=&message=Toph&color=blue&style=for-the-badge)](https://toph.co/u/NAHID_GTC)| 95
 | [![Toph](https://static.toph.co/images/logo.png?_=f76bdcf12c6acbf239a6e1b395ce7729b71e6c25)](https://toph.co/u/NAHID_GTC) | 95
 
