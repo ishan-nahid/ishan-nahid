@@ -29,6 +29,9 @@
 | <p align="center">OJ platform</p> | <p align="center">Solve Count</p> | 
 | :------------- | :-------------: |
 | <a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img  src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="ihsan_nahid" /></a> | 495
+| [![Toph](https://img.shields.io/static/v1?label=&message=Toph&color=blue&style=for-the-badge)](https://toph.co/u/NAHID_GTC)| 95
+| [![Toph](https://static.toph.co/images/logo.png?_=f76bdcf12c6acbf239a6e1b395ce7729b71e6c25)](https://toph.co/u/NAHID_GTC) | 95
+
 
 
 ### Online Judge Profiles:
