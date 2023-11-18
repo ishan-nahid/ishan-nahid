@@ -25,6 +25,12 @@
 | :------------- | :-------------: |
 | ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |  
 
+- ### Problem Solving Profiles:
+| <p align="center">OJ platform</p> | <p align="center">Solve Count</p> | 
+| :------------- | :-------------: |
+| <a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img  src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="ihsan_nahid" /></a> | 495
+
+
 ### Online Judge Profiles:
 <a href="https://codeforces.com/profile/ihsan_nahid" target="blank"><img align="left" src="./img/CF_logo.svg" alt="ihsan_nahid" width="50px" style="padding-right:10px;" /></a>
 <a href="https://www.codechef.com/users/ihsan_nahid" target="blank"><img align="left" src="./img/codechef.svg" alt="ihsan_nahid" width="50px" style="padding-right:10px;" /></a>
