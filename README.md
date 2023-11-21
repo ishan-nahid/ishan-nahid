@@ -5,6 +5,8 @@
 - I have solved 1K++ coding problems on various online judges. <br/>
 - I also made my hand dirty with several web and android based projects. <br/>
 - Currently, I am working on a neural net based OCR project. <br/>
+
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ishan-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="ishan-nahid" /> </p>
 
 ![ISHAN-AHMAD](./img/nahid.png)
@@ -63,6 +65,9 @@
 <img align="left" alt="python" width="26px" src="./img/python-5.svg" style="padding-right:10px;"/>
 <img align="left" alt="Sublime-Text" width="26px" src="./img/sublime-text.svg" style="padding-right:10px;"/>
 <img align="left" alt="LaTeX" width="26px" src="./img/latex.svg" style="padding-right:10px;"/> </br></br>
+
+### Certifications:
+[<img src="https://cdn.qwiklabs.com/fmfG%2B5r5NtOE5XUtinI%2BH7Y%2F1LRUzEiUhd%2Brz80VrRg%3D" alt="Google Cloud Skills Boost Badge" height="200px" width="250px">](https://www.cloudskillsboost.google/public_profiles/c65ebcd6-c354-4989-b9cd-f881e6fcc0e5/badges/6165681)
 
 
 ### Github Overview:
