@@ -69,7 +69,8 @@
 ### Certifications:
 [<img src="https://cdn.qwiklabs.com/fmfG%2B5r5NtOE5XUtinI%2BH7Y%2F1LRUzEiUhd%2Brz80VrRg%3D" alt="Google Cloud Skills Boost Badge" height="200px" width="250px">](https://www.cloudskillsboost.google/public_profiles/c65ebcd6-c354-4989-b9cd-f881e6fcc0e5/badges/6165681)
 [<img src="https://cdn.qwiklabs.com/2H1GveAGeXpUWx%2BR2w3NFV1alNlU%2BnydHrQWGMwEWfs%3D" alt="Google Cloud Skills Boost Badge" height="200px" width="250px">](https://www.cloudskillsboost.google/public_profiles/c65ebcd6-c354-4989-b9cd-f881e6fcc0e5/badges/6224353)
-[<img src="https://images.credly.com/size/340x340/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" alt="AWS Educate Machine Learning Foundations" height="200px" width="250px">](https://www.credly.com/badges/5412763e-8101-4df2-bc7c-1cf28bed7209/public_url)
+[<img src="https://images.credly.com/size/340x340/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" alt="AWS Educate Machine Learning Foundations" height="200px" width="250px">](https://www.credly.com/badges/5412763e-8101-4df2-bc7c-1cf28bed7209/public_url) </br>
+[<img src="https://tryhackme-badges.s3.amazonaws.com/nahidgtc.png" alt="TryHackMe">](https://tryhackme.com/p/nahidgtc)
 
 ### Github Overview:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan-nahid&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
