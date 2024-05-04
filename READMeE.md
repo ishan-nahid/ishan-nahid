@@ -1,3 +1,4 @@
+[![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)](https://ishanahmad.co/)
 
 <h1 align="center">Hi 👋, I'm ISHAN AHMAD</h1>
 
