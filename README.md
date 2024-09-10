@@ -10,7 +10,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ishan-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="ishan-nahid" /> </p>
 
-![ISHAN-AHMAD](./img/nahid.png)
+
 
 ## Tools & Technologies
 - ### Languages:
